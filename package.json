@@ -1,4 +1,5 @@
 {
+  "homepage": "https://codeforadwaith.github.io/project-alpha/",
   "name": "portfolio",
   "version": "4.0.0",
   "license": "MIT",
@@ -10,6 +11,7 @@
     "build": "rimraf ./build && react-scripts build",
     "lint": "eslint \"**/*.js\"",
     "predeploy": "npm run build && react-snap",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "test": "npx jest"
   },
@@ -42,6 +44,7 @@
     "eslint-plugin-import": "^2.29.1",
     "eslint-plugin-jsx-a11y": "6.8.0",
     "eslint-plugin-react": "^7.34.0",
+    "gh-pages": "^6.1.1",
     "react-snap": "^1.23.0",
     "rimraf": "^5.0.5",
     "sass": "^1.71.1",
