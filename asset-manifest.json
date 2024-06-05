@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/project-alpha/static/css/main.3fc8ac9a.css",
+    "main.js": "/project-alpha/static/js/main.bd6dd159.js",
+    "static/js/964.d444427a.chunk.js": "/project-alpha/static/js/964.d444427a.chunk.js",
+    "static/js/117.330eb943.chunk.js": "/project-alpha/static/js/117.330eb943.chunk.js",
+    "static/js/478.55276957.chunk.js": "/project-alpha/static/js/478.55276957.chunk.js",
+    "static/js/922.9f8e6af1.chunk.js": "/project-alpha/static/js/922.9f8e6af1.chunk.js",
+    "static/js/161.160c6270.chunk.js": "/project-alpha/static/js/161.160c6270.chunk.js",
+    "static/js/896.5333a497.chunk.js": "/project-alpha/static/js/896.5333a497.chunk.js",
+    "static/js/805.39644599.chunk.js": "/project-alpha/static/js/805.39644599.chunk.js",
+    "static/js/209.bc49afd4.chunk.js": "/project-alpha/static/js/209.bc49afd4.chunk.js",
+    "static/js/625.ea9393a5.chunk.js": "/project-alpha/static/js/625.ea9393a5.chunk.js",
+    "static/js/745.24e688eb.chunk.js": "/project-alpha/static/js/745.24e688eb.chunk.js",
+    "index.html": "/project-alpha/index.html",
+    "static/media/about.md": "/project-alpha/static/media/about.d107c84ff9e3491d1860.md",
+    "main.3fc8ac9a.css.map": "/project-alpha/static/css/main.3fc8ac9a.css.map",
+    "main.bd6dd159.js.map": "/project-alpha/static/js/main.bd6dd159.js.map",
+    "964.d444427a.chunk.js.map": "/project-alpha/static/js/964.d444427a.chunk.js.map",
+    "117.330eb943.chunk.js.map": "/project-alpha/static/js/117.330eb943.chunk.js.map",
+    "478.55276957.chunk.js.map": "/project-alpha/static/js/478.55276957.chunk.js.map",
+    "922.9f8e6af1.chunk.js.map": "/project-alpha/static/js/922.9f8e6af1.chunk.js.map",
+    "161.160c6270.chunk.js.map": "/project-alpha/static/js/161.160c6270.chunk.js.map",
+    "896.5333a497.chunk.js.map": "/project-alpha/static/js/896.5333a497.chunk.js.map",
+    "805.39644599.chunk.js.map": "/project-alpha/static/js/805.39644599.chunk.js.map",
+    "209.bc49afd4.chunk.js.map": "/project-alpha/static/js/209.bc49afd4.chunk.js.map",
+    "745.24e688eb.chunk.js.map": "/project-alpha/static/js/745.24e688eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fc8ac9a.css",
+    "static/js/main.bd6dd159.js"
+  ]
+}
